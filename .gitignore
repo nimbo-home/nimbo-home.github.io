@@ -25,4 +25,6 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
-.swp
+*.swp
+*.swo
+*~
